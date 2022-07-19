@@ -1,11 +1,5 @@
 # Exceptionly Assessment
 
-## Author
-
-### Name: Denis Nishikawa
-
-### Email: angelfirst930124@gmail.com
-
 ## Live Demo
 
 - [Frontend](https://exceptionly-frontend.herokuapp.com/)
